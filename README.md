@@ -1,5 +1,6 @@
 # Diabetes-Analysis-and-Prediction
 ![Diabetes Prediction Image](image.png)
+
 This project involves data analysis and prediction of diabetes using the Pima Indians Diabetes dataset. It provides insights into the data through visualizations and builds a machine learning model to predict the likelihood of diabetes based on patient information.
 
 ## Objective
